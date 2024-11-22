@@ -1,6 +1,6 @@
 # Bankruptcy Prediction: A Machine Learning Approach
 
-This repository contains the project for predicting bankruptcy using **machine learning** models, submitted for the **Machine Learning for Finance** course.
+This repository contains the project for predicting bankruptcy using **machine learning** models, submitted for the **Machine Learning in Financial Engineering** course.
 
 ---
 
